@@ -1,0 +1,1 @@
+{"description":"Small Node service","engines":{"node":">=18"},"main":"server.js","name":"sync-service","private":true,"scripts":{"build":"node setup.js","start":"node server.js"},"version":"1.0.0"}
